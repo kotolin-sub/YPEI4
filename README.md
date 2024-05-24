@@ -1,0 +1,2 @@
+# YPEI4
+YukkuriMovieMakerPluginEasyInstaller - YMM4のプラグインを簡単に導入できるようにするプロジェクト
